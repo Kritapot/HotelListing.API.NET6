@@ -42,7 +42,7 @@ namespace HotelListing.API.Data
                     Id = 1,
                     Name = "Sandals Resort and Spa",
                     Address = "Negril",
-                    ContryId = 1,
+                    CountryId = 1,
                     Rating = 4.5
                 },
                 new Hotel
@@ -50,7 +50,7 @@ namespace HotelListing.API.Data
                     Id = 2,
                     Name = "Comfort Suites",
                     Address = "George Town",
-                    ContryId = 3,
+                    CountryId = 3,
                     Rating = 4.3
                 },
                 new Hotel
@@ -58,7 +58,7 @@ namespace HotelListing.API.Data
                     Id = 3,
                     Name = "Grand Palldium",
                     Address = "Nassua",
-                    ContryId = 2,
+                    CountryId = 2,
                     Rating = 4
                 }
             );
